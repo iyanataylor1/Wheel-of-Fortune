@@ -1,4 +1,0 @@
-Occupation,Engineer
-Phrase,Hello World
-Vehicle Brand,Porsche
-Country,Democratic Republic of the Congo
